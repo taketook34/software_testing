@@ -2,3 +2,6 @@
 *fill-env/
 *.pem
 *.env
+
+# k6 results
+4-api-testing-k6/results/
